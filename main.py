@@ -6,3 +6,5 @@ def main():
 if_name_=="_main_":
 main()
 "Update main.py with imports"
+print("Конфигурация загружена")
+"Add config message"
